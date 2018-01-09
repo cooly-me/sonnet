@@ -1,3 +1,4 @@
+#!基于TensorFlow的神经网络库
 # ![Sonnet](images/sonnet_logo.png)
 
 Sonnet is a library built on top of TensorFlow for building complex neural
